@@ -1,0 +1,5 @@
+.env
+.venv
+Resume.tex
+__pycache__
+updated_resume.tex
